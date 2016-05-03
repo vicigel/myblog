@@ -1,0 +1,49 @@
+body {
+    background-image: url("../images/backgroup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#content {
+    width:90%;
+    margin: auto;
+    border: medium solid;
+
+}
+
+#content-top {
+    width:95%;
+    display:block;
+    border:medium solid;
+    margin:auto;
+    height: 100px;
+}
+/*.logen {*/
+    /*width:24%;*/
+    /*margin-left: 2%;*/
+    /*border-bottom: medium solid;*/
+/*}*/
+/*.h3_class {*/
+    /*width:24%;*/
+    /*margin-left: 2%;*/
+    /*margin-top: -1.5%;*/
+/*}*/
+#content-top-left {
+    width:30%;
+    float:left;
+    border:medium solid;
+    height:100px;
+}
+#content-top-right {
+    float:right;
+    width:40%;
+    border:medium solid;
+    height:100px;
+}
+#content-left {
+    width:24%;
+    margin-left:2%;
+    border:medium solid;
+    margin-inside: auto;
+}
+
